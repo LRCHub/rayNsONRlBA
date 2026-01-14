@@ -1,6 +1,6 @@
 {
   "syncVlyrics": false,
-  "dynmiclyrics": false,
+  "dynmiclyrics": true,
   "SyncLocked": false,
   "dynmicLock": false
 }
